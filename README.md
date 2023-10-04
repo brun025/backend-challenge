@@ -23,13 +23,17 @@ make help
 ```
 
 Primeira execução, instalação de dependências, setup das configurações e inicialização do container.
-Após rodar o comando abaixo, acesse http://localhost:8000/api/items
+Após rodar o comando abaixo, acesse http://localhost:8000/api/items ou
+Importe o arquivo items.json que se encontra na pasta json na raiz do projeto para o Insomnia e faça
+as requisições.
 ```sh
 make setup
 ```
 
 Inicialização do container
-Após rodar o comando abaixo, acesse http://localhost:8000/api/items
+Após rodar o comando abaixo, acesse http://localhost:8000/api/items ou
+Importe o arquivo items.json que se encontra na pasta json na raiz do projeto para o Insomnia e faça
+as requisições.
 ```sh
 make up
 ```
