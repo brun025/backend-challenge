@@ -5,7 +5,7 @@
 
 Clone Repositório
 ```sh
-git clone https://github.com/devfullcycle/FC3-admin-catalogo-de-videos-php.git backend-challenge
+git clone https://github.com/brun025/backend-challenge.git backend-challenge
 ```
 
 ```sh
